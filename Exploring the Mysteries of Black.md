@@ -1,5 +1,5 @@
 ### Exploring the Mysteries of Black Holes (Storytelling Piece)  
-## The spaceship's hull creaked as the crew approached the edge of the black hole’s event horizon. Commander Malik stared at the swirling vortex on the monitor—a maelstrom of light and shadow where the laws of physics seemed to unravel.  
+The spaceship's hull creaked as the crew approached the edge of the black hole’s event horizon. Commander Malik stared at the swirling vortex on the monitor—a maelstrom of light and shadow where the laws of physics seemed to unravel.  
 
 "How close can we get without crossing the horizon?" asked Dr. Elena, the astrophysicist onboard.  
 
